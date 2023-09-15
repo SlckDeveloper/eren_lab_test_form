@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961275819359",
+    "project_id": "erenlabtestformu",
+    "storage_bucket": "erenlabtestformu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961275819359:android:897e1dfd4bf18c00f232ea",
+        "android_client_info": {
+          "package_name": "com.example.eren_lab_test_form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961275819359-ognjn086hh512o6raci9dsdtr7vajlqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7KgFZdxOf3_Q8w5ne5fife87EKC8zt80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961275819359-ognjn086hh512o6raci9dsdtr7vajlqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
